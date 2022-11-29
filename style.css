@@ -1,0 +1,26 @@
+body{
+    color: blueviolet;
+    background-color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.jumbotron{
+    background-color: beige;
+    margin: auto;
+    padding: 10px;
+}
+.jumbotron h1{
+    font-size: xxx-large;
+    font-weight: bolder;
+}
+.jumbotron h1,
+.jumbotron p{
+    text-align: center;
+}
+.jumbotron p{
+    font-size: x-large;
+}
+#googleMap{
+    width: 80%;
+    height: 400px;
+    margin: auto;
+}
